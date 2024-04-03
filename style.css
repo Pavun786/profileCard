@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    font-size: 35px;
+    margin: 65px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+}
+
+.greeting{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    
+}
